@@ -1,16 +1,35 @@
-### Hi there 👋
+## Olá, meu nome é Erildo Francisco!
 
-<!--
-**erildojs/erildojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
 
-Here are some ideas to get you started:
+ Sou <strong>Desenvolvedor Javascript</strong>. Entusiasmado com o mundo da tecnologia, e com o poder que ela pode dar na nossa vida, procuro resolver probelamas do dia a dia usando a tecnologia.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Linguagens: <strong>Javascript</strong> e <strong>Typescript</strong>.
+</p>
+
+<p align="left">
+   Banco de Dados: <strong>Postgres</strong> e <strong>MySQL</strong>.
+</p>
+
+<p align="left">
+  Outros: Docker...
+</p>
+
+
+<br>
+
+<p align="left">
+<strong>Contatos:</strong>
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/erildo_francisco/?hl=pt_BR" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-3f729b?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/erildo_francisco/?hl=pt_BR"/>
+  </a>
+  <a href="https://www.linkedin.com/in/erildojs/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-83941f?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/erildojs/"/>
+  </a>
+</p>
+
