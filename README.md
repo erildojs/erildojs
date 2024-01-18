@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Linguagens: <strong>Javascript</strong> e <strong>Typescript</strong>.
+  Linguagens: <strong>Javascript</strong> | <strong>Typescript</strong> | <strong>Nodejs</strong> | <strong>Reactjs</strong> | <strong>React Native</strong>.
 </p>
 
 <p align="left">
