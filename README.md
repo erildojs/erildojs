@@ -2,21 +2,12 @@
 
 <p align="left"> 
 
- Sou <strong>Desenvolvedor Javascript</strong>. Entusiasmado com o mundo da tecnologia, e com o poder que ela pode dar na nossa vida, procuro resolver probelamas do dia a dia usando a tecnologia.
+ Sou <strong>Fullstack Developer Web</strong>. Entusiasmado com o mundo da tecnologia, e com o poder que ela pode dar na nossa vida, procuro resolver probelamas do dia a dia usando a tecnologia.
 </p>
 
 <p align="left">
   Linguagens: <strong>Javascript</strong> | <strong>Typescript</strong> | <strong>Nodejs</strong> | <strong>Reactjs</strong> | <strong>React Native</strong>.
 </p>
-
-<p align="left">
-   Banco de Dados: <strong>Postgres</strong> e <strong>MySQL</strong>.
-</p>
-
-<p align="left">
-  Outros: Docker...
-</p>
-
 
 <br>
 
