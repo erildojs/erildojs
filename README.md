@@ -1,4 +1,4 @@
-## Olá, meu nome é Erildo Francisco!
+## Erildo Francisco!
 
 <p align="left"> 
 
