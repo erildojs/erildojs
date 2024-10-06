@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
- <strong>Fullstack Developer Web</strong>. Entusiasmado com o mundo da tecnologia, e com o poder que ela pode dar na nossa vida, procuro resolver problemas do dia a dia usando tecnologia.
+ <strong>Desenvolvedor FrontEnd</strong>. Entusiasmado com o mundo da tecnologia, e com o poder que ela pode dar na nossa vida, procuro resolver problemas do dia a dia usando tecnologia.
 </p>
 
 <p align="left">
