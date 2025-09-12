@@ -2,11 +2,11 @@
 
 <p align="left"> 
 
- <strong>Desenvolvedor FrontEnd</strong>. Entusiasmado com o mundo da tecnologia, e com o poder que ela pode dar na nossa vida, procuro resolver problemas do dia a dia usando tecnologia.
+ <strong>Desenvolvedor Frontend</strong>. Resolvo problemas do mundo real usando tecnologia.
 </p>
 
 <p align="left">
-  Linguagens: <strong>Javascript</strong> | <strong>Reactjs</strong> | <strong>Nodejs</strong>.
+  Linguagens: <strong>Reactjs</strong> | <strong>nodejs</strong> | <strong>Html</strong> | <strong>css</strong> | <strong>javascript</strong>.
 </p>
 
 <br>
