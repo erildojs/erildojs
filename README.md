@@ -16,9 +16,6 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/erildo_francisco/?hl=pt_BR" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-3f729b?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/erildo_francisco/?hl=pt_BR"/>
-  </a>
   <a href="https://www.linkedin.com/in/erildojs/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-83941f?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/erildojs/"/>
   </a>
