@@ -1,12 +1,12 @@
 ## Erildo Francisco!
 
 <p align="left"> 
-
- <strong>Desenvolvedor Frontend | ReactJS | Html | Css | Javascript | NodeJS. Resolvo problemas do mundo real usando tecnologia.
+ Erildo Franscisco, sou backend developer, actuo no desenvolvimento de apis, usando principalmente nodejs.
+ <strong>Backend Developer | NodeJS. Resolvo problemas do mundo real usando tecnologia.
 </p>
 
 <p align="left">
-  Linguagens: <strong>Reactjs</strong> | <strong>Nodejs</strong> | <strong>Html</strong> | <strong>Css</strong> | <strong>Javascript</strong>.
+  Linguagens: <strong>NodeJS</strong> | <strong>Javascript</strong>.
 </p>
 
 <br>
