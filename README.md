@@ -1,12 +1,12 @@
 ## Erildo Francisco!
 
 <p align="left"> 
- Erildo Franscisco, sou backend developer, actuo no desenvolvimento de apis, usando principalmente nodejs.
- <strong>Backend Developer | NodeJS. Resolvo problemas do mundo real usando tecnologia.
+ Erildo Franscisco, sou desenvolvedor full stack, actuo no desenvolvimento de alicações web, tanto backend como frontend e mobile, usando principalmente tecnologias como React.js, React Native e Node.js.
+ <strong>Desenvolvedor Full Stack | Node.js | React | React Native | Next.js | HTML | Css | Javascript. Resolvo problemas do mundo real usando tecnologia.
 </p>
 
 <p align="left">
-  Linguagens: <strong>NodeJS</strong> | <strong>Javascript</strong>.
+  Linguagens: <strong>NodeJS</strong> | <strong>React.js</strong> | <strong>React Native</strong> | <strong>Next.js</strong> | <strong>HTML</strong> | <strong>Css</strong> | <strong>Javascript</strong>.
 </p>
 
 <br>
